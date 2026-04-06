@@ -36,9 +36,9 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 load_dotenv()
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-ADMIN_CHAT_ID = int(os.environ["ADMIN_CHAT_ID"])
-PING_CHAT_ID = -1003580782912  # Ping channel ID (hardcoded)
+BOT_TOKEN = os.environ["8754118967:AAGMy4LsZ9w1LLAvorX_wLWScVzYOmtuxCE"]
+ADMIN_CHAT_ID = int(os.environ["8761283732"])
+PING_CHAT_ID = -1003580782912  
 
 # ---------------------------------------------------------------------------
 # Plan definitions
